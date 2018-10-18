@@ -1,4 +1,7 @@
-# Bem-vindo ao meu blog
+---
+title: Bem-vindo ao meu blog
+date: 2018-10-17
+---
 Irei (provavelmente... Possivelmente... Talvez...) postar algumas coisas aqui: dicas, sugestões de cursos e sites, solução de problemas, dentre outros.
 
 ## Tecnologias

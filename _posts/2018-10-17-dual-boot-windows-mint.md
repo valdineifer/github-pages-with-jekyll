@@ -2,7 +2,7 @@
 title: "Dual-boot com Windows 10 e Linux Mint 18.3"
 date: 2018-10-17
 ---
-# Dual-boot com Windows 10 e Linux Mint 18.3
+
 Assim iniciou-se a minha jornada no Linux...
 
 Breve relato: Eu decidi usar o Linux logo após entrar na [InfoJr UFBA](https://www.infojr.com.br), mas não podia deixar de usar o Windows, por conta do computador ser da família (e não conseguir largar os jogos — nos primeiros momentos — rsrs). Daí analisei a ideia de usar dual-boot, mas estava bastante receoso, pois havia tantos tutoriais, com tantos modos diferentes, que achei que poderia perder meus arquivos do Windows.
