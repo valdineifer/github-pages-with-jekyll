@@ -1,3 +1,7 @@
+---
+title: "Dual-boot com Windows 10 e Linux Mint 18.3"
+date: 2018-10-17
+---
 # Dual-boot com Windows 10 e Linux Mint 18.3
 Assim iniciou-se a minha jornada no Linux...
 
