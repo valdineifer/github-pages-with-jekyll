@@ -1,15 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Valdinei Ferreira | Blog
+author: Valdinei Ferreira
+email: valdineifer@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog pessoal de Valdinei Ferreira. Neste blog, irei postar soluções 
+  de problemas que enfrentei, dicas, sugestões de sites e cursos, 
+  enfim, quaisquer conhecimentos e experiências que eu desejar 
+  compartilhar com vocês.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: _valdineifer
+github_username:  valdineifer
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-midnight
+theme: minima
